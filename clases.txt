@@ -8,3 +8,12 @@ Desarrollado por Google, Angular es más que un framework, es una plataforma que
 ---- Clase 2 -----
 
 Configuración de Angular en el equipo.
+
+--- Clase 4 ----
+
+Dentro de la clase 4 se instalaron algunas extensiones las cuales fueron
+
++Angular Language Service
++EditorConfig for VS Code
+
+y se creo un archivo nvmrc para la version de node por si se trabaja en equipo.
