@@ -4,3 +4,7 @@ Angular es un framework de JavaScript que posee todo un ecosistema de tecnologí
 Angular por defecto no posee estilos, pero se pueden agregar de forma muy sencilla. La parte visual de la aplicación es muy importante porque es lo que más le interesa al usuario final. En ese sentido, Angular Material es un framework de estilos para tus aplicaciones.
 
 Desarrollado por Google, Angular es más que un framework, es una plataforma que nos da la posibilidad de desarrollar aplicaciones web como aplicaciones mobile. Además, es un framework de estructura que nos va a brindar funcionalidades para extender el template de nuestra aplicación.
+
+---- Clase 2 -----
+
+Configuración de Angular en el equipo.
