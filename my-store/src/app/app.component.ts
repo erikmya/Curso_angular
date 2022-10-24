@@ -13,7 +13,16 @@ export class AppComponent {
   btnDisabled = true;
   person = {
     name: 'Erik',
-    age: '23',
+    age: 23,
     avatar: 'https://www.pngitem.com/pimgs/m/78-786293_1240-x-1240-0-avatar-profile-icon-png.png'
+  }
+
+
+  toggleButton() {
+    this.btnDisabled = !this.btnDisabled;
+  }
+
+  ageIncrease() {
+    this.person.age += 1;
   }
 }
