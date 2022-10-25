@@ -23,9 +23,9 @@
 </p> -->
 
 <h1>*ngFor Objs</h1>
-<div>
+<div class="products--grid">
   <div *ngFor="let product of products">
-    <img width="550" [src]="product.image" alt="image">
+    <img [src]="product.image" alt="image">
     <h2>{{ product.price }}</h2>
     <p>{{ product.name }}</p>
   </div>
@@ -76,7 +76,7 @@
 <h2>{{ 'Hola Mundo'.repeat(5) }}</h2>
 <p>3 + 3 = {{ 3 + 3 }}</p>
 <h3>Hola, soy {{ name }} y tengo {{ age }}</h3>
-<img src="{{img}}" alt="image">
+<img width="200" src="{{img}}" alt="image">
 
 <!-- Clase 15, El profesor explica la funcion de la extension para Chrome "Angular DevTools" la cual nos puede ayudar para
 cualquier proyecto que este desarrollado en Angular, donde podemos ver algunos de sus elementos y asi poder salir de algunas dudas
