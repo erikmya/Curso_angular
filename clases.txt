@@ -1,0 +1,19 @@
+---- Clase 1 -----
+Angular es un framework de JavaScript que posee todo un ecosistema de tecnologías con módulos y paquetes listos para utilizar para el desarrollo web del lado del cliente.
+
+Angular por defecto no posee estilos, pero se pueden agregar de forma muy sencilla. La parte visual de la aplicación es muy importante porque es lo que más le interesa al usuario final. En ese sentido, Angular Material es un framework de estilos para tus aplicaciones.
+
+Desarrollado por Google, Angular es más que un framework, es una plataforma que nos da la posibilidad de desarrollar aplicaciones web como aplicaciones mobile. Además, es un framework de estructura que nos va a brindar funcionalidades para extender el template de nuestra aplicación.
+
+---- Clase 2 -----
+
+Configuración de Angular en el equipo.
+
+--- Clase 4 ----
+
+Dentro de la clase 4 se instalaron algunas extensiones las cuales fueron
+
++Angular Language Service
++EditorConfig for VS Code
+
+y se creo un archivo nvmrc para la version de node por si se trabaja en equipo.
